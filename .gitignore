@@ -1,0 +1,21 @@
+# venv
+.venv
+bin/
+include/
+lib/
+lib64
+pyvenv.cfg
+
+# pyenv
+.python-version
+
+# compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pip
+pip-selfcheck.json
+dist/
+MANIFEST*
+*egg-info*
